@@ -16,6 +16,8 @@
 
 #include "port/logging.h"
 
+#include <cstddef>
+
 namespace platforms {
 namespace darwinn {
 
